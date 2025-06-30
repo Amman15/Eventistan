@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104874177373",
+    "project_id": "eventistan-s7yh0u",
+    "storage_bucket": "eventistan-s7yh0u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104874177373:android:0770efbb900ed277feaeb4",
+        "android_client_info": {
+          "package_name": "com.mycompany.eventistan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3MFBvaLjyVrVXXETWPmEn_OaoDgqiWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
